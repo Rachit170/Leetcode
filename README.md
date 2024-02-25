@@ -1,1 +1,1 @@
-# Leetcode in this reporestory i will post all my leetcode problems which i have done
+# Leetcode in this repository i will post all my leetcode problems which i have done
