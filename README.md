@@ -1,1 +1,1 @@
-# Leetcode in this repository i will post all my leetcode problems which i have done
+In this repository, I'll be curating a comprehensive collection of the LeetCode problems I've tackled, providing detailed solutions, explanations, and tracking my progress in mastering algorithmic challenges.
